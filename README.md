@@ -1,2 +1,2 @@
 # Jenkins
-Curso -  Jenkins básico para Sysadmins e Developers
+Estudo sobre - Jenkins básico para Sysadmins e Developers
