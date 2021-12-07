@@ -1,28 +1,16 @@
-# Jenkins
-## O que é um SCM?
+# Estudo sobre Jenkins
 
-- Guarda todas as alterações desde o início do projeto;
-- Exemplos de SCM
-    * GIT
-    * SVN
-- Cada etapa na criação de um software gera uma nova versão dele.
-# O que é GIT?
+## Visão Geral
 
-- Sistema de controle de versão
-- Open Source
-- Desenvolvimento não linear
-- Capaz de lidar com grandes projetos
+- Conhecer os conceitos sobre CI/CD e Continuous Deployment
+- Instalar o Jenkins em diferentes plataformas
+- Configurar o Jenkins de forma completa
+- Escalar o jenkins através de Slaves
+- Criar e configurar Pipelines
+- Notificar o status dos seus builds
+- Instalar e utilizar o Jenkins Blue Ocean
+- Gerenciar o Jenkins através da CLI
 
-# Repositórios remotos
+## Acesso a anotações em:
 
-- GitHub
-- GitLab
-- BitBucket
-
-# O que é um branch?
-
-- Ramificações
-- Utilização:
-    - Correção de bugs
-    - Novas funcionalidades
-- Branch padrão é a master (main branch)
+/doc
